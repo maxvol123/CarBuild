@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/CarBuild/static/css/main.1f920f47.css",
+    "main.js": "/CarBuild/static/js/main.39076cd2.js",
+    "static/media/background.jpg": "/CarBuild/static/media/background.77094677c30eabe6f222.jpg",
+    "static/media/Bmw.jpg": "/CarBuild/static/media/Bmw.b1fcc7559c6ea9a82ca4.jpg",
+    "static/media/mercedes.jpg": "/CarBuild/static/media/mercedes.8512d81dc37a35afe361.jpg",
+    "static/media/Check.jpg": "/CarBuild/static/media/Check.d326bdb1a634f2fcfb32.jpg",
+    "index.html": "/CarBuild/index.html",
+    "main.1f920f47.css.map": "/CarBuild/static/css/main.1f920f47.css.map",
+    "main.39076cd2.js.map": "/CarBuild/static/js/main.39076cd2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f920f47.css",
+    "static/js/main.39076cd2.js"
+  ]
+}
